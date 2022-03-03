@@ -22,5 +22,5 @@ Este é um projeto de Front-end  , cujo o principal objetivo é estudar e compre
 
 ## 🔗Link para Acessar
 
-- **Link do Surge:** Ainda não feito
+- **Link do Surge:** https://teste-netflix.surge.sh/
 
