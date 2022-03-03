@@ -10,6 +10,11 @@ export default ({item}) => {
         genres.push(item.genres[i].name)
     }
 
+    let description = item.overview
+    if(description.length > 200) {
+        description = description.substring(0, 200)+"..."
+    }
+
     return (
       <section className="feature" style={{
           backgroundSize: "cover",

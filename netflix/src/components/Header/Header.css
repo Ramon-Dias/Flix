@@ -33,3 +33,9 @@ header.black {
     height: 100%;
     border-radius: 3px;
 }
+
+@media (max-width:760px) {
+    .movieRow-left, .movieRow-right {
+        opacity: 1;
+    }
+}
